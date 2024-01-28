@@ -1,8 +1,5 @@
 # Podstream
-
-
-## Podcast Streaming Application
-
+<br>
 ### Deployed Link : [View Webapp](https://podstream.netlify.app/)
 <br>
 ## Some Images:
@@ -98,6 +95,6 @@ npm start
 ## Conclusion
 
 In conclusion, this podcast streaming application provides users with an easy-to-use platform for listening to their favorite podcasts. With features such as user authentication, podcast search, and an admin panel for creating and adding new podcasts, this application offers a comprehensive solution for podcast streaming. 
-#   P o d s t r e a m 
+
  
  
