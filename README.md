@@ -11,6 +11,30 @@
 <img width="450px;" src="https://private-user-images.githubusercontent.com/99653239/300270082-444b0cde-f893-43fd-8f6f-23bd3457e047.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0NTg3NjUsIm5iZiI6MTcwNjQ1ODQ2NSwicGF0aCI6Ii85OTY1MzIzOS8zMDAyNzAwODItNDQ0YjBjZGUtZjg5My00M2ZkLThmNmYtMjNiZDM0NTdlMDQ3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI4VDE2MTQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4ZGRjYjc5Nzk3ODc5ODllMDUzNjJlNTU3YTMwMGZmMGJjNDc5NmFiNmJhN2RkMWMzMzI0ZjJlOTMyZTVjMTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.M9uLH8dICwR_kkSxFHyexD7TdLoCEXVgpBxQXeO6c04"/> <br>
 <img width="450px;" src="https://private-user-images.githubusercontent.com/99653239/300270103-292df596-75eb-4e51-8155-ce87bfeb98fa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0NTg3NjUsIm5iZiI6MTcwNjQ1ODQ2NSwicGF0aCI6Ii85OTY1MzIzOS8zMDAyNzAxMDMtMjkyZGY1OTYtNzVlYi00ZTUxLTgxNTUtY2U4N2JmZWI5OGZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI4VDE2MTQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlM2YxMDQ2YzMwMGQ2ZDUwNmQxZTc2OWYxOGE5YzY0OWQ1YmRlMmYxYjQ0MmI3N2ZlNzJmOTEwMmQ1NGI0ZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gAPrjhEE6QZglfJNhMYyS2XtL-YbUJm-I1_UCJKzpHI"/> <br>
 
+### This is a web application for streaming podcasts with the following features:
+- User authentication
+- Podcast search functionality
+- Popular podcasts displayed on the main dashboard
+- Admin panel for creating and adding new podcasts
+- Favourite Podcasts
+- Pause podcasts and come back play at same time
+
+### Getting Started
+To use the application, simply create an account and log in. From there, you can search for podcasts, view popular podcasts on the main dashboard, and listen to podcasts.
+
+Admin users can access the admin panel to create and add new podcasts, which will be displayed on the main dashboard.
+
+### Technologies Used
+The application is built using the following technologies:
+
+- React Js
+- Node Js
+- Mongo Db
+- Google Auth
+- Firebase
+
+## Steps to start the app
+
 ### Start the react app
 Go to client folder
 ```
